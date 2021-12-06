@@ -14,10 +14,19 @@ Sparklab:
 https://the-sparklab.de/sparkcube-v2-0/
 
 
+MainsailOS:
+
+https://docs.mainsail.xyz/
+
 
 Fystec Spider:
 
 https://github.com/FYSETC/FYSETC-SPIDER
+
+
+STM32 Cube Programmer:
+
+https://www.st.com/en/development-tools/stm32cubeprog.html
 
 
 Klipper Config Reference:
